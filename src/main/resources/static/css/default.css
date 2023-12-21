@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.card .form-control{
+    margin: 10px 0px;
+    box-shadow: 0px 3px 6px rgb(0 14 53);
+}
+
+.card button{
+    background-color: #ff4e00;
+    border:1px solid #8b2b00;
+    color: white;
+    width: 150px;
+    margin: 10px 0px;
+    box-shadow: 0px 3px 6px rgb(0 14 53);
+}
+
